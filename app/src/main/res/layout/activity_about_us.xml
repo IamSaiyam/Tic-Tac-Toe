@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    tools:context=".AboutUs">
+
+    <TextView
+        android:id="@+id/aboutusheading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        android:textSize="40dp"
+        android:textColor="@color/white"
+        android:background="#8A2BE2"
+        android:textStyle="bold"
+        android:padding="20dp"
+        android:gravity="center"
+        android:fontFamily="monospace"
+        android:text="About Us" />
+
+    <ImageView
+        android:id="@+id/aboutusimage"
+        android:layout_width="180dp"
+        android:layout_height="180dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/aboutusheading"
+        app:layout_constraintBottom_toTopOf="@id/aboutUsContent"
+        android:src="@drawable/developer"
+        android:layout_margin="20dp"/>
+
+    <TextView
+        android:id="@+id/aboutUsContent"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/aboutusimage"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:textColor="@color/black"
+        android:fontFamily="casual"
+        android:layout_margin="20dp"
+        android:textSize="15dp"
+        android:text="@string/aboutuscontent"/>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

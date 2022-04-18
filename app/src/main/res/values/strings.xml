@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tic Tac Toe</string>
+    <string name="heading">Tic-Tac-Toe</string>
+    <string name="hometagline">Welcome to\nTic-Tac-Toe</string>
+    <string name="helpcontent">Tic-Tac-Toe is a game for Two Players X and O, who take turns marking the spaces in a 3X3 grid. Usually game is played on Paper with a Pen or a Pencil but now, you dont need to waste a paper or pen just play it here with a friend Offline. Play turn by turn just to make consecutive 3 Xs or 3 Os to Win!</string>
+    <string name="aboutuscontent">Hello! First of all I Thank You to play and test my app, My name is <b><i>Saiyam Jain</i></b> and I am the one who developed this Tic-Tac-Toe gaming application. This is my first gaming android project. So, I\'ll be glad to know from you if any kind of bug or malfunction you face in the app. You can contact me from the contact section of the app as well as my github. I\'ll try to come up with more Complex and Amazing Games or applications in future. I Hope you guys will enjoy the game. Bye-Bye!</string>
+</resources>
