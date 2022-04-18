@@ -5,22 +5,22 @@ This game allows two players to play the game on a single device, without any ac
 
 ## Installation
 
-You can install this application from this link:
-https://1drv.ms/u/s!AosmDyq537C4g1WuQirb-tHPHTf6?e=mo87GS
+You can download the apk file given above orYou can install this application from [Here](https://1drv.ms/u/s!AosmDyq537C4g1WuQirb-tHPHTf6?e=mo87GS).
+
 
 
 ## How it works
 
-The game is simple. 
-No Internet access needed.
+The game is simple.  
+No Internet access needed.  
 Both the players have to play the game on single device.
 
 Once the game is started:
 
-The game prompts about whose turn it is. The turn would be of either Player 1 or Player 2.
-Game have three results: Player 1 Won, Player 2 Won and Draw.
-Whichever player wins, his/her score gets incremented.
-Whenever a game is completed(someone has won), the players can play more games or can compare the scores.
+The game prompts about whose turn it is. The turn would be of either Player 1 or Player 2.  
+Game have three results: Player 1 Won, Player 2 Won and Draw.  
+Whichever player wins, his/her score gets incremented.  
+Whenever a game is completed(someone has won), the players can play more games or can compare the scores.  
 Player can play more, Clear the scoreboard or can clear the gamepad to play more.
 
 
