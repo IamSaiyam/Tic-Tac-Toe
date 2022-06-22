@@ -25,11 +25,12 @@ Player can play more, Clear the scoreboard or can clear the gamepad to play more
 
 
 ## Screenshots
-<img src="https://user-images.githubusercontent.com/59947799/163844827-c7ff7ded-aa37-4f77-8470-85fd85d22d29.jpg" height="500">
-<img src="https://user-images.githubusercontent.com/59947799/163851198-36022702-a8f0-4bb3-9454-e41b54a27ca4.jpg" height="500">
-<img src="https://user-images.githubusercontent.com/59947799/163851252-5e74ef05-df14-4697-8c59-97716573039f.jpg" height="500">
-<img src="https://user-images.githubusercontent.com/59947799/163851328-1d7a4c35-97c4-4499-be20-f049225417f2.jpg" height="500">
-
+<p float="left">
+<img src="https://user-images.githubusercontent.com/59947799/163844827-c7ff7ded-aa37-4f77-8470-85fd85d22d29.jpg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/59947799/163851198-36022702-a8f0-4bb3-9454-e41b54a27ca4.jpg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/59947799/163851252-5e74ef05-df14-4697-8c59-97716573039f.jpg" width="200" height="400">
+<img src="https://user-images.githubusercontent.com/59947799/163851328-1d7a4c35-97c4-4499-be20-f049225417f2.jpg" width="200" height="400">
+</p>
 
 
 
